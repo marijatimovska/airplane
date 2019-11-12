@@ -1,0 +1,4 @@
+1,Airbus Corporate Jets,K-450G,200,29000.0
+2,Boeing Business Jets,M-750F,300,24000.0
+3,Bombardier Aerospace,T-4802,250,27000.0
+4,Dassault Falcon,K-450FR,500,28000.0

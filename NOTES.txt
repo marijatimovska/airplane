@@ -1,0 +1,4 @@
+Klasite:
+	- CSVParserJson
+	- CSVWriterJsonse 
+povrzani so CSV file parsing za Json.Ne se del od glavniot proekt.
